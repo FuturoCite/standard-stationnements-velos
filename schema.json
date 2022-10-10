@@ -1,0 +1,113 @@
+{
+    "$schema": "https://frictionlessdata.io/schemas/table-schema.json",
+    "title": "Stationnements vélos",
+    "description": "Spécification du standard des stationnements vélos",
+    "keywords": [
+        "vélos",
+        "aménagements vélos"
+        "aménagements cyclables"
+    ],
+    "countryCode": "BE",
+    "licenses": [
+        {
+            "title": "Licence Ouverte",
+            "name": "TBD",
+            "path": "TBD"
+        }
+    ],
+    "resources":[
+       {
+          "title":"Fichier valide (CSV)",
+          "name":"exemple-valide-csv",
+          "path":"TBD"
+       }
+    ],
+    "author": "Datactivist pour FuturoCité",
+    "contact": "https://www.futurocite.be/contact/demande-informations/",
+    "contributors": [
+        {
+            "organisation": "FuturoCité",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Datactivist",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Marche-en-Famenne",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Idelux",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Liège",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Namur",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Walhain",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Bastogne",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de La Louvière",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Tournai",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Service public de Wallonie",
+            "role": "contributor"
+        },
+         {
+            "organisation": "Bureau Economique de la Province de Namur",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville d'Andenne",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Chaudfontaine",
+            "role": "contributor"
+        },
+           {
+            "organisation": "Ville de Hannut",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Intercommunale pour la Gestion et la Réalisation d'Etudes Techniques et Economiques",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Intercommunale de Développement Economique et d'Aménagement du coeur du Hainaut",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Mons",
+            "role": "contributor"
+        },
+       {
+            "organisation": "Ville de Chimay",
+            "role": "contributor"
+        },
+        {
+            "organisation": "Ville de Braine-L'Alleud",
+            "role": "contributor"
+        }
+    ],
+    "version": "0.1.0",
+    "created": "2022-10-12",
+    "updated": "2022-10-12",
+    "homepage": "https://github.com/FuturoCite/standard-stationnements-velos",
+    "uri": "https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/schema.json",
