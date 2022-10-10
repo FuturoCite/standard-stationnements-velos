@@ -115,7 +115,7 @@
         {
             "name": "id",
             "title": "Identifiant",
-            "description": "Ce champ contient un identifiant unique local. Le producteur de données le génère en associant  le code INS de la commune dans laquelle se situe l'équipement à un nombre. Ce champ permet d'éviter localement les doublons. Le code INS de la commune est accessible ici : https://statbel.fgov.be/fr/open-data/code-refnis",
+            "description": "Ce champ contient un identifiant unique local. Le producteur de données le génère en associant le code INS de la commune dans laquelle se situe l'équipement à un nombre. Ce champ permet d'éviter localement les doublons. Le code INS de la commune est accessible ici : https://statbel.fgov.be/fr/open-data/code-refnis",
             "example": "92094-3",
             "type": "string",
             "constraints": {
