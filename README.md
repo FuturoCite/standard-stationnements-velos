@@ -51,7 +51,7 @@ Exemple : 2022-10-25_60000_stationnement-velos_Liege.csv
 
 ### Recommandation pour la mise en conformité 
 
-Ces conseils reprennent ceux du Socle commun des données locales publié par Open Data france
+Ces conseils reprennent ceux du [Socle commun des données locales publié par Open Data france](https://scdl.opendatafrance.net/docs/recommandations-relatives-aux-jeux-de-donnees.html)
 
 Les fichiers doivent comporter :
 
