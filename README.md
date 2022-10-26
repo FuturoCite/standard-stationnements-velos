@@ -42,12 +42,12 @@ Les fichiers doivent, sauf exception et autant que possible, respecter les règl
 YYYY-MM-DD_idProducteur_lieux-de-mediation-numerique_territoire.csv
 
 * YYYY-MM-DD : Date de création du fichier
-* idProducteur : code ISN pour identifier le producteur
+* idProducteur : code ISN unique de la commune pour identifier le producteur
 * stationnement-velos : nom du fichier, en minuscules non accentuées
 * territoire : Nom du territoire concerné, non accentué (exemple : Liege)
 * extension : Si les règles de formatage sont respectées, l'extension est .csv
 
-Exemple : 2022-10-25_60000_stationnement-velos_Liege.csv
+Exemple : 2022-10-25_62063_stationnement-velos_Liege.csv
 
 ### Recommandation pour la mise en conformité 
 
