@@ -17,7 +17,7 @@ Toutes les réunions ont fait l'objet de comptes-rendus disponibles *ici - à aj
 
 ## Description du schéma
 
-La documentation des champs du schéma est accessible sur .... *(portail ODWB ?)*
+La documentation des champs du schéma est accessible sur .... *(le site de futurocité)*
 
 Un *gabarit au format tableur* est également prévu pour faciliter la publication d'un jeu de données conforme au format du schéma.
 
