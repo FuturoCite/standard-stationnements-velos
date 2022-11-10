@@ -19,7 +19,7 @@
        {
           "title":"Fichier valide (CSV)",
           "name":"exemple-valide-csv",
-          "path":"TBD"
+          "path":"https://raw.githubusercontent.com/FuturoCite/standard-stationnements-velos/main/exemple-valide.csv"
        }
     ],
     "author": "Futuro Cité, avec l'appui de Datactivist",
