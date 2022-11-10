@@ -106,14 +106,10 @@ Le tableau ci-dessous donne un apperçu des champs du schéma.
    <td>Type de stationnement
    </td>
    <td>Ce champ indique le type de stationnement. Les valeurs possibles sont :
-<p>
 * Arceau
-<p>
 * Rack
-<p>
 * Box
-<p>
-Autre
+* Autre
    </td>
   </tr>
   <tr>
