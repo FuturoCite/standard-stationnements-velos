@@ -21,7 +21,7 @@ La documentation des champs du schéma est accessible sur .... *(le site de futu
 
 Un *gabarit au format tableur* est également prévu pour faciliter la publication d'un jeu de données conforme au format du schéma.
 
-Le tableau ci-dessous donne un apperçu des champs du schéma. 
+Le tableau ci-dessous donne un aperçu des champs du schéma. 
 
 <table>
   <tr>
