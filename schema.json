@@ -138,7 +138,7 @@
             "title": "Code INS",
             "description": "Ce champ contient le code INS de la commune où se situe le stationnement. Il est accessible ici :  https://statbel.fgov.be/fr/open-data/code-refnis ",
             "example": "92094",
-            "type": "number",
+            "type": "string",
             "constraints": {
                 "required": true,
                 "pattern":"^\\d{5}$"
@@ -179,7 +179,7 @@
             "title": "Code rue BeSTAddress",
             "description": "Ce champ contient le code de la voirie où se situe le stationnement dans la base de données BeSTAdress (ou de la voirie la plus proche s'il n'est pas en voirie) : https://opendata.bosa.be/index.fr.html",
             "example": "7753128",
-            "type": "number",
+            "type": "string",
             "constraints": {
                 "required": true
             }
@@ -189,7 +189,7 @@
             "title": "Code rue national",
             "description": "Code de la voirie où se situe le stationnement dans le registre national (ou de la voirie la plus proche s'il n'est pas en voirie)",
             "example": "8701",
-            "type": "number",
+            "type": "string",
             "constraints": {
                 "required": false
             }
