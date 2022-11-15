@@ -287,7 +287,7 @@
         },
        {
             "name": "available_places",
-            "title": "Nombre de places"
+            "title": "Nombre de places",
             "description": "Ce champ indique le nombre de places présentes sur l'emplacement de stationnement vélo.",
             "example": "12",
             "type": "number",
