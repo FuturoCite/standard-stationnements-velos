@@ -358,19 +358,21 @@
         {
             "name": "created_date",
             "title": "Date de création de la donnée",
-            "description": "Ce champ indique la date de création de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD) ",
+            "description": "Ce champ indique la date de création de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD)",
             "example": "2021-11-03",
-            "type": "default",
+            "type": "date",
+            "format": "default",
             "constraints": {
                 "required": false
             }
-          },
-          {
+        },
+         {
             "name": "last_modified_date",
             "title": "Date de dernière modification de la donnée",
-            "description": "Ce champ indique la date de la dernière modification de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD). ",
+            "description": "Ce champ indique la date de la dernière modification de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD)",
             "example": "2021-12-05",
-            "type": "default",
+            "type": "date",
+            "format": "default",
             "constraints": {
                 "required": false
             }
