@@ -10,9 +10,9 @@
     "countryCode": "BE",
     "licenses": [
         {
-            "title": "Licence Ouverte",
-            "name": "Statbel Licence Ouverte",
-            "path": "https://statbel.fgov.be/sites/default/files/files/opendata/Licence%20open%20data_FR.pdf"
+            "title": "Creative Commons",
+            "name": "CC-by 2.0 BE",
+            "path": "https://creativecommons.org/licenses/by/2.0/be/"
         }
     ],
     "resources":[
