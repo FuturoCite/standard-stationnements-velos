@@ -25,7 +25,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
   <tr>
    <td><strong>Nom</strong>
    </td>
-   <td>Remplissage obligatoire/optionnel
+   <td><strong>Remplissage obligatoire/optionnel</strong>
    </td>
    <td><strong>Description</strong>
    </td>
