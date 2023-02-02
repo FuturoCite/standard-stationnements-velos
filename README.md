@@ -162,7 +162,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Obligatoire
    </td>
-   <td>Ce champ indique si l'emplacement du stationnement vélo est couvert (true) ou non (false)
+   <td>Ce champ indique si l'emplacement du stationnement vélo est couvert (true) ou non (false). Si non applicable/non connu : ne pas renseigner ce champ.
    </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Optionnel
    </td>
-   <td>Ce champ indique si l'emplacement du stationnement vélo est sécurisé (true) ou non (false). Un emplacement sécurisé est par exemple surveillé par une caméra, ou cadenassé.
+   <td>Ce champ indique si l'emplacement du stationnement vélo est sécurisé (true) ou non (false). Un emplacement sécurisé est par exemple surveillé par une caméra, ou cadenassé. Si non applicable/non connu : ne pas renseigner ce champ.
    </td>
   </tr>
   <tr>
@@ -234,7 +234,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Obligatoire
    </td>
-   <td>Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques.
+   <td>Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques. Si non applicable/non connu : ne pas renseigner ce champ.
    </td>
   </tr>
   <tr>
@@ -243,7 +243,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Optionnel
    </td>
-   <td>Ce champ indique la présence (true) ou non (false) de matériel de réparation
+   <td>Ce champ indique la présence (true) ou non (false) de matériel de réparation. Si non applicable/non connu : ne pas renseigner ce champ.
    </td>
   </tr>
   <tr>
