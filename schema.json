@@ -196,8 +196,8 @@
          },
          {
             "name": "house_number",
-            "title": "Numéro de police (rue) le plus proche",
-            "description": "Ce champ est recommandé. Il contient le numéro de police (numéro de rue) le plus proche du stationnement.",
+            "title": "Numéro de police le plus proche",
+            "description": "Ce champ est recommandé. Il contient le numéro de police (numéro de maison) le plus proche du stationnement.",
             "example": "4",
             "type": "string",
             "constraints": {
