@@ -108,7 +108,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Optionnel (recommandé)
    </td>
-   <td>Ce champ est recommandé. Il contient le numéro de police (numéro de rue) le plus proche du stationnement.
+   <td>Ce champ est recommandé. Il contient le numéro de police (numéro de maison) le plus proche du stationnement.
    </td>
   </tr>
   <tr>
