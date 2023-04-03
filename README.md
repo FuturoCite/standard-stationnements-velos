@@ -285,7 +285,7 @@ Les fichiers doivent, sauf exception et autant que possible, respecter les règl
 Les fichiers doivent, sauf exception et autant que possible, respecter les règles de nommage suivantes :
 
 * YYYY-MM-DD : Date de création du fichier
-* idProducteur : code ISN unique de la commune pour identifier le producteur
+* idProducteur : code INS unique de la commune pour identifier le producteur
 * stationnement-velos : nom du fichier, en minuscules non accentuées
 * territoire : Nom du territoire concerné, non accentué (exemple : Liege)
 * extension : Si les règles de formatage sont respectées, l'extension est .csv
