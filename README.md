@@ -126,7 +126,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Obligatoire
    </td>
-   <td>Ce champ indique les coordonnées de l'emplacement vélos. Il respecte le format WGS 1984 (latitude,longitude). Ne pas mettre d'espace après la virgule. Les coordonnées d'un lieu peuvent être générées ici : https://www.coordonnees-gps.fr/carte/pays/BE
+   <td>Ce champ indique les coordonnées de l'emplacement vélos. Il est au format GeoJSON (se référer au fichier csv d'exemple et/ou à la documentation pour un exemple de valeur bien formatée). S'il est impossible d'exporter la donnée depuis un logiciel métier, les coordonnées d'un lieu peuvent être générées ici : https://www.coordonnees-gps.fr/carte/pays/BE
    </td>
   </tr>
   <tr>
