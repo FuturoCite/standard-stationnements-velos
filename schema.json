@@ -218,12 +218,21 @@
             "name": "coordinates",
             "title": "Coordonnées",
             "description": "Ce champ indique les coordonnées du stationnement. Il respecte le format WGS 1984 (latitude,longitude). Ne pas mettre d'espace après la virgule. Les coordonnées d'un lieu peuvent être générées ici : https://www.coordonnees-gps.fr/carte/pays/BE",
-            "example": "50.4712861231,4.8248565701",
-            "type": "string",
+            "example": {
+                 "type": "Feature",
+                 "geometry": {
+                       "type": "Point",
+                       "coordinates": [50.4712861231,4.8248565701]
+                       },
+                 "properties": {
+                   "name": "un nom"
+                      }
+                    },                        
+            "type": "geojson",
             "constraints": {
                 "required": true
             }
-        },
+          },
         {
             "name": "location_details",
             "title": "Précisions sur la localisation",
