@@ -294,7 +294,7 @@ Exemple : 2022-10-25_62063_stationnement-velos_Liege.csv
 
 ### Recommandation pour la mise en conformité 
 
-Ces conseils reprennent ceux des schémas standards de données français publié par [l'initiative de data.gouv.fr](https://scdl.opendatafrance.net/docs/recommandations-relatives-aux-jeux-de-donnees.html)
+Ces conseils reprennent ceux des schémas standards de données français publié par [l'initiative de data.gouv.fr](https://schema.data.gouv.fr/).
 
 Les fichiers doivent comporter :
 
