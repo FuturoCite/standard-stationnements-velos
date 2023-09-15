@@ -243,7 +243,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Obligatoire
    </td>
-   <td>Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques. Si non applicable/non connu : ne pas renseigner ce champ.
+   <td>Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques.
    </td>
   </tr>
   <tr>
