@@ -365,7 +365,7 @@
 		{
 			"name": "charging_station",
 			"title": "Borne de recharge",
-			"description": "Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques. Si non applicable/non connu : ne pas renseigner ce champ.",
+			"description": "Ce champ indique la présence (true) ou non (false) d'une borne de rechargement de vélos électriques.",
 			"example": "true",
 			"type": "boolean",
 			"constraints": {
