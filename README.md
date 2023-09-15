@@ -40,6 +40,15 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
   </tr>
   <tr>
+   <td>Nom 
+   <br>(name) 
+   </td>
+   <td>Obligatoire
+   </td>
+   <td>Ce champ fournit un nom pour le stationnement vélo. Ce nom pourrait par exemple être le nom de la rue où se situe l'emplacement ou un lieu-dit ou une combinaison du type rue/précision).
+   </td>
+  </tr>
+  <tr>
    <td>Nom de la commune 
    <br>(municipality)
    </td>
@@ -252,7 +261,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Optionnel (recommandé)
    </td>
-   <td>Ce champ indique la date de création de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD)
+   <td>Ce champ indique la date de création de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jourTheure:minute:seconde+02:00 (AAAA-MM-JJTHH:MM:SS-/+FF:ff). Si vous ne disposez pas de l'heure de création de la donnée, mettre "00:00:00+02:00".
    </td>
   </tr>
   <tr>
@@ -261,7 +270,7 @@ Le tableau ci-dessous donne un aperçu des champs du schéma.
    </td>
    <td>Optionnel (recommandé)
    </td>
-   <td>Ce champ indique la date de la dernière modification de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD).
+   <td>Ce champ indique la date de mise à jour de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jourTheure:minute:seconde+02:00 (AAAA-MM-JJTHH:MM:SS-/+FF:ff). Si vous ne disposez pas de l'heure de mise à jour de la donnée, mettre "00:00:00+02:00".
    </td>
   </tr>
 </table>
